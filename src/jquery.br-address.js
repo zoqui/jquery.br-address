@@ -1,3 +1,12 @@
+/*!
+ * jquery.br_address.js
+ * http://zoqui.com/
+ * Version: 1.0.0
+ *
+ * Copyright 2012 Marco Aurelio Zoqui
+ * Released under the MIT license
+ * https://github.com/nnnick/Chart.js/blob/master/LICENSE.md
+ */
 (function($) {
     "use strict"; // Start of use strict
     // jquery plugin methods
