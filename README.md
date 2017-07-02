@@ -1,6 +1,6 @@
 ## Synopsis
 
-A simple jquery plugin that translates zipcode in a easy to use brazilian standard address
+A simple jquery plugin that translates zipcode in a easy to use standard brazilian address
 
 ## Code Example
 ```
