@@ -4,7 +4,7 @@
 A simple jquery plugin that translates zipcode in a easy to use brazilian standard address
 
 ## Code Example
-
+```
  (document).ready(function(){
      $('input[name=txt_zip_code').br_address({
         onStart: function(){
@@ -34,15 +34,15 @@ A simple jquery plugin that translates zipcode in a easy to use brazilian standa
         }
      });    
  });    
-
+```
 ## Motivation
 
 
 ## Installation
-
+```
 <script src="/static/plugins/jQuery/jQuery-2.1.4.min.js" type="text/javascript"></script>
 <script src="jquery.br-address.js" type="text/javascript" charset="utf-8"></script>
-
+```
 ## Released under the MIT license
 
 ## License
